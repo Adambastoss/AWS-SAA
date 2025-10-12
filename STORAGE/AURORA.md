@@ -1,0 +1,1 @@
+O **Amazon Aurora** possui um recurso chamado **Aurora Auto Scaling** para suas réplicas de leitura.

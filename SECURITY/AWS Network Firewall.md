@@ -1,0 +1,1 @@
+Serviço de firewall de rede gerenciado que fornece **inspeção de tráfego de rede stateful e filtragem de pacotes** para VPCs.
