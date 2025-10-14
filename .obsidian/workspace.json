@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STORAGE/AURORA.md",
+                "file": "NETWORK/VPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AURORA"
+              "title": "VPC"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b056cea899f230dc",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STORAGE/AURORA.md",
+                "file": "NETWORK/VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AURORA"
+              "title": "Backlinks for VPC"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STORAGE/AURORA.md",
+                "file": "NETWORK/VPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AURORA"
+              "title": "Outgoing links from VPC"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STORAGE/AURORA.md",
+                "file": "NETWORK/VPC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AURORA"
+              "title": "Outline of VPC"
             }
           }
         ]
@@ -171,16 +172,17 @@
   },
   "active": "8a4d7bd20d98f02f",
   "lastOpenFiles": [
+    "NETWORK/Notas de questões.md",
+    "NETWORK/VPC.md",
+    "STORAGE/AURORA.md",
     "STORAGE/S3.md",
     "DATA/QuickSight.md",
     "SECURITY/AWS Network Firewall.md",
     "DATA",
     "SECURITY/SECURITY.md",
     "SECURITY/GuardDuty.md",
-    "STORAGE/AURORA.md",
     "NOTES/Conceitos importantes.md",
     "NOTES",
-    "NETWORK/SERVICES.md",
     "ARCHITECTURE/Untitled.md",
     "SAA-C03 - Portugues.pdf",
     "ARCHITECTURE",
