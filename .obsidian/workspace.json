@@ -11,14 +11,12 @@
             "id": "8a4d7bd20d98f02f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "STORAGE/AURORA.md",
-                "mode": "source",
-                "source": false
+                "file": "SAA-C03 - Portugues.pdf"
               },
-              "icon": "lucide-file",
-              "title": "AURORA"
+              "icon": "lucide-file-text",
+              "title": "SAA-C03 - Portugues"
             }
           }
         ]
@@ -171,16 +169,16 @@
   },
   "active": "8a4d7bd20d98f02f",
   "lastOpenFiles": [
+    "NETWORK/SERVICES.md",
+    "NOTES/Conceitos importantes.md",
+    "SECURITY/SECURITY.md",
+    "SECURITY/AWS Network Firewall.md",
+    "STORAGE/AURORA.md",
     "STORAGE/S3.md",
     "DATA/QuickSight.md",
-    "SECURITY/AWS Network Firewall.md",
     "DATA",
-    "SECURITY/SECURITY.md",
     "SECURITY/GuardDuty.md",
-    "STORAGE/AURORA.md",
-    "NOTES/Conceitos importantes.md",
     "NOTES",
-    "NETWORK/SERVICES.md",
     "ARCHITECTURE/Untitled.md",
     "SAA-C03 - Portugues.pdf",
     "ARCHITECTURE",
