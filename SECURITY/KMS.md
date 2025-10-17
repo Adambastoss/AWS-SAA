@@ -1,0 +1,1 @@
+O AWS KMS oferece **chaves multirregionais (MRKs)**. Você pode criar uma chave primária em uma região e ter réplicas dessa mesma chave em outras regiões. Todas as réplicas compartilham o **mesmo ID de chave e material de chave**, permitindo que você as use de forma intercambiável. Isso atende perfeitamente ao requisito de usar "a mesma chave" em duas regiões.

@@ -1,0 +1,1 @@
+O **Amazon Kinesis Data Streams** é projetado para ingestão e processamento de dados de streaming em **tempo real** em grande escala ("milhões de transações"), atendendo aos picos de centenas de milhares de usuários.

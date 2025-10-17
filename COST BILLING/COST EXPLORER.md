@@ -1,0 +1,4 @@
+- **Ferramenta Nativa e Imediata:** O **AWS Cost Explorer** é uma ferramenta de análise de custos **já integrada e disponível** em todo console da AWS. Não requer configuração adicional.
+
+- - **Análise Granular com Filtros:** O Cost Explorer permite que você selecione facilmente um intervalo de datas (últimos 2 meses), filtre por serviço (`Amazon EC2`) e depois **agrupe (Group By)** os custos por **"Tipo de Instância"**. Isso **cria instantaneamente um gráfico e uma tabela** mostrando exatamente quais tipos de instância causaram o aumento de custo, permitindo a "análise aprofundada" necessária.
+- 

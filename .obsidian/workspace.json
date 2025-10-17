@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETWORK/VPC.md",
+                "file": "SECURITY/KMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPC"
+              "title": "KMS"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b056cea899f230dc",
@@ -172,18 +171,23 @@
   },
   "active": "8a4d7bd20d98f02f",
   "lastOpenFiles": [
-    "NETWORK/Notas de questões.md",
+    "SECURITY/SECURITY.md",
+    "SECURITY/KMS.md",
     "NETWORK/VPC.md",
+    "NETWORK/Notas de questões.md",
+    "DATA/KINESIS.md",
+    "DATA/QuickSight.md",
+    "NOTES/Conceitos importantes.md",
     "STORAGE/AURORA.md",
     "STORAGE/S3.md",
-    "DATA/QuickSight.md",
+    "COST BILLING/COST EXPLORER.md",
+    "ARCHITECTURE/Untitled.md",
+    "Untitled.md",
+    "COST BILLING",
     "SECURITY/AWS Network Firewall.md",
     "DATA",
-    "SECURITY/SECURITY.md",
     "SECURITY/GuardDuty.md",
-    "NOTES/Conceitos importantes.md",
     "NOTES",
-    "ARCHITECTURE/Untitled.md",
     "SAA-C03 - Portugues.pdf",
     "ARCHITECTURE",
     "NETWORK",
