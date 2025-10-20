@@ -8,7 +8,7 @@ Você pode ter apenas **1 Internet Gateway** por VPC
 --------------------------------------------------------------------------
 
 ## **ELB (Elastic Load Balancer**
-
+ 
 É o recurso **publicamente acessível** que recebe o tráfego direto da web.
 
 **Cenário Realista:** Para uma aplicação web crítica sendo lançada publicamente, proteger o balanceador de carga (que é o alvo mais provável) com Shield Advanced é a recomendação padrão para resiliência contra DDoS.
