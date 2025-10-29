@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETWORK/VPC.md",
+                "file": "AUTOMATION/AWS Systems Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPC"
+              "title": "AWS Systems Manager"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 235.5
   },
   "right": {
     "id": "b056cea899f230dc",
@@ -169,34 +169,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "f0546971de90478e",
+  "active": "8a4d7bd20d98f02f",
   "lastOpenFiles": [
-    "STORAGE/Amazon FSx.md",
+    "ARCHITECTURE/Untitled.md",
+    "STORAGE/S3.md",
     "STORAGE/Amazon EFS.md",
-    "NETWORK/AWS Direct Connect.md",
+    "NOTES/Conceitos importantes.md",
     "IA - ML/Comprehend Medical.md",
+    "NETWORK/VPC.md",
+    "STORAGE/Amazon FSx.md",
+    "NETWORK/AWS Direct Connect.md",
     "IA - ML",
     "DATA/AppFlow.md",
     "AUTOMATION/AWS Systems Manager.md",
     "AUTOMATION",
     "NETWORK/Notas de questões.md",
-    "STORAGE/S3.md",
     "STORAGE/AURORA.md",
     "SAA-C03 - Portugues.pdf",
     "SECURITY/KMS.md",
     "DATA/KINESIS.md",
     "COST BILLING/COST EXPLORER.md",
     "COST BILLING",
-    "NETWORK/VPC.md",
     "NETWORK/SERVICES.md",
-    "NOTES/Conceitos importantes.md",
     "SECURITY/SECURITY.md",
     "SECURITY/AWS Network Firewall.md",
     "DATA/QuickSight.md",
     "DATA",
     "SECURITY/GuardDuty.md",
     "NOTES",
-    "ARCHITECTURE/Untitled.md",
     "ARCHITECTURE",
     "NETWORK",
     "SECURITY",
