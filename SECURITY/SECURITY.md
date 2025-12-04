@@ -2,7 +2,7 @@ A **conta de gerenciamento** possui um **bucket S3** que contém relatórios de 
 A empresa quer ==**limitar o acesso== a esse bucket** apenas aos ==**usuários de contas pertencentes à organização**== no AWS Organizations.
 ### Adicione à política do bucket S3 a chave global **aws :PrincipalOrgID** referenciando o ID da organização.
 
-- A chave global **`aws:PrincipalOrgID`**permite **restringir o acesso a recursos apenas para contas dentro de uma mesma organização do AWS Organizations** .
+- A chave global **`aws:PrincipalOrgID`**permite restringir o acesso a recursos apenas para contas dentro de uma mesma organização do AWS Organizations** .
     
 - Ao adicionar essa condição na **política do bucket S3** , o acesso será concedido automaticamente **apenas a identidades (usuários, funções, contas)** que fazem parte da organização identificada pelo **Org ID** .
 
