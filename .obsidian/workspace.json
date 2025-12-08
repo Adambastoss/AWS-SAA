@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETWORK/VPC.md",
+                "file": "AWS - Quizz/QUESTÕES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPC"
+              "title": "QUESTÕES"
             }
           }
         ]
@@ -171,10 +171,13 @@
   },
   "active": "8a4d7bd20d98f02f",
   "lastOpenFiles": [
+    "STORAGE/S3.md",
+    "AWS - Quizz/QUESTÕES.md",
+    "AWS - Quizz",
+    "NETWORK/VPC.md",
     "DATA/AWS Glue.md",
     "STORAGE/Amazon FSx.md",
     "DATA/Untitled",
-    "STORAGE/S3.md",
     "NETWORK/Network Load Balancer (NLB).md",
     "NETWORK/Application Load Balancer (ALB).md",
     "DATABASES/DynamoDB.md",
@@ -188,7 +191,6 @@
     "SECURITY/GuardDuty.md",
     "SECURITY/AWS Network Firewall.md",
     "NOTES/Conceitos importantes.md",
-    "NETWORK/VPC.md",
     "NETWORK/Notas de questões.md",
     "NETWORK/AWS Direct Connect.md",
     "IA - ML/Comprehend Medical.md",
@@ -198,14 +200,12 @@
     "DATA/AppFlow.md",
     "COST BILLING/COST EXPLORER.md",
     "AUTOMATION/AWS Systems Manager.md",
-    "AUTOMATION/AWS Config.md",
     "DEVELOPMENT",
     "IA - ML",
     "AUTOMATION",
     "SAA-C03 - Portugues.pdf",
     "COST BILLING",
     "DATA",
-    "NOTES",
-    "ARCHITECTURE"
+    "NOTES"
   ]
 }
