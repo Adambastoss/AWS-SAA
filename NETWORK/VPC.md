@@ -8,7 +8,6 @@ Você pode ter apenas **1 Internet Gateway** por VPC
 --------------------------------------------------------------------------
 ### ==VPC Gateway Enpoint==
 
-<<<<<<< HEAD
 ## **ELB (Elastic Load Balancer**
  
 É o recurso **publicamente acessível** que recebe o tráfego direto da web.
@@ -16,12 +15,9 @@ Você pode ter apenas **1 Internet Gateway** por VPC
 **Cenário Realista:** Para uma aplicação web crítica sendo lançada publicamente, proteger o balanceador de carga (que é o alvo mais provável) com Shield Advanced é a recomendação padrão para resiliência contra DDoS.
 
 Ao atribuir o **Shield Advanced** ao seu ELB, você está **protegendo** diretamente o **ponto de entrada** da sua aplicação.
-=======
+
 Um **VPC Gateway Endpoint** para o **Amazon S3** permite que o tráfego entre o VPC e o S3 **ocorra principalmente pela rede privada da AWS** , **sem necessidade de Internet, NAT Gateway ou IP público** .
 
-<<<<<<< HEAD
 Como o tráfego entre a VPC e o S3 **não sai da rede backbone da AWS**, não há **custos de transferência de dados** para essa comunicação.
-=======
->>>>>>> 7a59c3b7cb7acaef3f2d4ac53160455fb8a59c07
 
->>>>>>> b9b31d08525c761c0e7be9e9c91d5a764b5192da
+
