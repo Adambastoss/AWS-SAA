@@ -8,17 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a4d7bd20d98f02f",
+            "id": "bd282e01b9c2ba2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "NETWORK/Auto Scaling.md",
+=======
+                "file": "NETWORK/VPC.md",
+>>>>>>> 78ed2c2e42e7d895d06a27f6f7feb2786daf1a43
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Auto Scaling"
+=======
+              "title": "VPC"
+>>>>>>> 78ed2c2e42e7d895d06a27f6f7feb2786daf1a43
             }
           }
         ]
@@ -78,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 200
   },
   "right": {
     "id": "b056cea899f230dc",
@@ -94,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STORAGE/AURORA.md",
+                "file": "NETWORK/VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AURORA"
+              "title": "Backlinks for VPC"
             }
           },
           {
@@ -113,12 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STORAGE/AURORA.md",
+                "file": "NETWORK/VPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AURORA"
+              "title": "Outgoing links from VPC"
             }
           },
           {
@@ -142,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STORAGE/AURORA.md",
+                "file": "NETWORK/VPC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AURORA"
+              "title": "Outline of VPC"
             }
           }
         ]
@@ -169,13 +177,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "8a4d7bd20d98f02f",
+  "active": "f0546971de90478e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "NETWORK/Application Load Balancer (ALB).md",
     "NETWORK/Auto Scaling.md",
+=======
+    "DATA/AWS Glue.md",
+>>>>>>> 78ed2c2e42e7d895d06a27f6f7feb2786daf1a43
     "AWS - Quizz/QUESTÕES.md",
     "STORAGE/S3.md",
     "AWS - Quizz",
+<<<<<<< HEAD
     "NETWORK/VPC.md",
     "DATA/AWS Glue.md",
     "STORAGE/Amazon FSx.md",
@@ -187,25 +200,49 @@
     "STORAGE/DynamoDB.md",
     "STORAGE/AURORA.md",
     "STORAGE/Amazon EFS.md",
+=======
+    "Untitled",
+>>>>>>> 78ed2c2e42e7d895d06a27f6f7feb2786daf1a43
     "SECURITY/SECURITY.md",
+    "STORAGE/S3.md",
     "SECURITY/KMS.md",
+    "STORAGE/Amazon FSx.md",
+    "DATABASES/AURORA MySQL.md",
     "SECURITY/GuardDuty.md",
     "SECURITY/AWS Network Firewall.md",
-    "NOTES/Conceitos importantes.md",
+    "SECURITY",
+    "STORAGE/SECURITY/SECURITY.md",
+    "STORAGE/SECURITY/KMS.md",
+    "STORAGE/SECURITY/GuardDuty.md",
+    "STORAGE/SECURITY/AWS Network Firewall.md",
+    "STORAGE/SECURITY",
+    "STORAGE/DynamoDB.md",
+    "DEVELOPMENT/SQS.md",
+    "DEVELOPMENT",
+    "AUTOMATION/AWS Config.md",
+    "STORAGE/Amazon EFS.md",
+    "SAA-C03 - Portugues.pdf",
+    "STORAGE/AURORA.md",
+    "NETWORK/VPC.md",
+    "DATABASES/DynamoDB.md",
+    "NETWORK/Network Load Balancer (NLB).md",
+    "DATABASES",
+    "NETWORK/Application Load Balancer (ALB).md",
     "NETWORK/Notas de questões.md",
     "NETWORK/AWS Direct Connect.md",
+    "NOTES/Conceitos importantes.md",
     "IA - ML/Comprehend Medical.md",
+<<<<<<< HEAD
     "DEVELOPMENT/SQS.md",
     "DATA/QuickSight.md",
     "DATA/KINESIS.md",
     "DATA/AppFlow.md",
     "COST BILLING/COST EXPLORER.md",
     "DEVELOPMENT",
+=======
+>>>>>>> 78ed2c2e42e7d895d06a27f6f7feb2786daf1a43
     "IA - ML",
     "AUTOMATION",
-    "SAA-C03 - Portugues.pdf",
-    "COST BILLING",
-    "DATA",
-    "NOTES"
+    "COST BILLING"
   ]
 }
