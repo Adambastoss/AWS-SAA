@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETWORK/VPC.md",
+                "file": "SECURITY/KMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPC"
+              "title": "KMS"
             }
           }
         ]
@@ -169,14 +169,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "f0546971de90478e",
+  "active": "bd282e01b9c2ba2f",
   "lastOpenFiles": [
-    "DATA/AWS Glue.md",
-    "AWS - Quizz/QUESTÕES.md",
-    "AWS - Quizz",
-    "Untitled",
-    "SECURITY/SECURITY.md",
+    "DATABASES/GERAL.md",
+    "NETWORK/AWS Global Accelerator.md",
+    "SECURITY/AWS Firewall Manager.md",
     "STORAGE/S3.md",
+    "GERENCIAMENTO/CloudWatch Logs.md",
+    "AWS - Quizz/QUESTÕES.md",
+    "NETWORK/VPC.md",
+    "DATA/AWS Glue.md",
+    "AWS - Quizz",
+    "GERENCIAMENTO",
+    "SECURITY/SECURITY.md",
     "SECURITY/KMS.md",
     "STORAGE/Amazon FSx.md",
     "DATABASES/AURORA MySQL.md",
@@ -195,15 +200,10 @@
     "STORAGE/Amazon EFS.md",
     "SAA-C03 - Portugues.pdf",
     "STORAGE/AURORA.md",
-    "NETWORK/VPC.md",
     "DATABASES/DynamoDB.md",
     "NETWORK/Network Load Balancer (NLB).md",
     "DATABASES",
     "NETWORK/Application Load Balancer (ALB).md",
-    "NETWORK/Notas de questões.md",
-    "NETWORK/AWS Direct Connect.md",
-    "NOTES/Conceitos importantes.md",
-    "IA - ML/Comprehend Medical.md",
     "IA - ML",
     "AUTOMATION",
     "COST BILLING"

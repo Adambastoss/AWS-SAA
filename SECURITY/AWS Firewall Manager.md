@@ -1,0 +1,1 @@
+**AWS Firewall Manager:** ✅ Este é um serviço de **gerenciamento centralizado de segurança** que permite configurar e gerenciar políticas do AWS WAF (e outros) **em várias contas e regiões da AWS a partir de uma única conta**.
