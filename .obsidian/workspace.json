@@ -171,6 +171,8 @@
   },
   "active": "bd282e01b9c2ba2f",
   "lastOpenFiles": [
+    "NETWORK/Auto Scaling.md",
+    "DATABASES/ORACLE.md",
     "DATABASES/GERAL.md",
     "NETWORK/AWS Global Accelerator.md",
     "SECURITY/AWS Firewall Manager.md",
@@ -201,9 +203,7 @@
     "SAA-C03 - Portugues.pdf",
     "STORAGE/AURORA.md",
     "DATABASES/DynamoDB.md",
-    "NETWORK/Network Load Balancer (NLB).md",
     "DATABASES",
-    "NETWORK/Application Load Balancer (ALB).md",
     "IA - ML",
     "AUTOMATION",
     "COST BILLING"
