@@ -1,0 +1,1 @@
+O **AWS PrivateLink** é a solução projetada para este cenário exato. Ele permite que você acesse um serviço hospedado em outra VPC (de outra conta AWS ou de um provedor de serviços) de forma privada e segura, **sem expor o serviço à internet e sem precisar de peering de VPC, VPN ou NAT**.
