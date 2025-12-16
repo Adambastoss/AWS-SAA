@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETWORK/Network Load Balancer (NLB).md",
+                "file": "NETWORK/Auto Scaling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Load Balancer (NLB)"
+              "title": "Auto Scaling"
             }
           }
         ]
@@ -171,13 +171,17 @@
   },
   "active": "bd282e01b9c2ba2f",
   "lastOpenFiles": [
+    "NETWORK/AWS Global Accelerator.md",
+    "BACKUP/AWS Backup.md",
+    "STORAGE/S3.md",
+    "BACKUP",
+    "AUTOMATION/AWS Systems Manager.md",
+    "NETWORK/Network Load Balancer (NLB).md",
     "NETWORK/AWS PrivateLink.md",
     "DATABASES/ORACLE.md",
-    "STORAGE/S3.md",
     "NETWORK/Auto Scaling.md",
     "SECURITY/KMS.md",
     "DATABASES/GERAL.md",
-    "NETWORK/AWS Global Accelerator.md",
     "SECURITY/AWS Firewall Manager.md",
     "GERENCIAMENTO/CloudWatch Logs.md",
     "AWS - Quizz/QUESTÕES.md",
@@ -199,13 +203,9 @@
     "STORAGE/DynamoDB.md",
     "DEVELOPMENT/SQS.md",
     "DEVELOPMENT",
-    "AUTOMATION/AWS Config.md",
-    "STORAGE/Amazon EFS.md",
     "SAA-C03 - Portugues.pdf",
-    "STORAGE/AURORA.md",
     "DATABASES",
     "IA - ML",
-    "AUTOMATION",
-    "COST BILLING"
+    "AUTOMATION"
   ]
 }
