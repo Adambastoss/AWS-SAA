@@ -56,3 +56,5 @@ Exemplo com AWS Lambda:
 - 1.000 conexões abertas no banco
     
 - Banco cai ou fica instável
+
+55
