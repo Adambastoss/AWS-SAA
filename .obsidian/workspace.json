@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "1746222f60fc75fe",
+    "id": "050599c462a16fd5",
     "type": "split",
     "children": [
       {
-        "id": "89b68f3a81dff42e",
+        "id": "3f28dd3849f7cbb5",
         "type": "tabs",
         "children": [
           {
-            "id": "8a4d7bd20d98f02f",
+            "id": "6c463cb958001fe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "NETWORK/Auto Scaling.md",
-=======
                 "file": "DATABASES/RDS.md",
->>>>>>> ca97ec696b538d1797352aadd2afec3afe116262
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Auto Scaling"
-=======
               "title": "RDS"
->>>>>>> ca97ec696b538d1797352aadd2afec3afe116262
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1c4d54283edaf4f4",
+    "id": "376814f2270974e8",
     "type": "split",
     "children": [
       {
-        "id": "8e8533ce583ee3b5",
+        "id": "4389f6f3ec04fbc6",
         "type": "tabs",
         "children": [
           {
-            "id": "f0546971de90478e",
+            "id": "3d8f5d4d26b930de",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +48,7 @@
             }
           },
           {
-            "id": "422622d52c218a86",
+            "id": "357bd022f9a32fa5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "744093e643039a47",
+            "id": "886570eb60f37071",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 300
   },
   "right": {
-    "id": "b056cea899f230dc",
+    "id": "79812ef84b719d58",
     "type": "split",
     "children": [
       {
-        "id": "fb899ffbfd950454",
+        "id": "f9b24056e64f14c3",
         "type": "tabs",
         "children": [
           {
-            "id": "fd3fa2bfdf049098",
+            "id": "bdc589b5d8f78c95",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STORAGE/AURORA.md",
+                "file": "DATABASES/RDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AURORA"
+              "title": "Backlinks for RDS"
             }
           },
           {
-            "id": "a9c2a1a219c6b607",
+            "id": "3d6618a46c742259",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STORAGE/AURORA.md",
+                "file": "DATABASES/RDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AURORA"
+              "title": "Outgoing links from RDS"
             }
           },
           {
-            "id": "dbb73bde098d44fe",
+            "id": "b1beab537353e095",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,18 +137,18 @@
             }
           },
           {
-            "id": "7d663f2b05088ec7",
+            "id": "c384b0e881249470",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "STORAGE/AURORA.md",
+                "file": "DATABASES/RDS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AURORA"
+              "title": "Outline of RDS"
             }
           }
         ]
@@ -177,66 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "8a4d7bd20d98f02f",
+  "active": "3d8f5d4d26b930de",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "NETWORK/AWS Global Accelerator.md",
-    "BACKUP/AWS Backup.md",
     "STORAGE/S3.md",
-    "BACKUP",
-    "AUTOMATION/AWS Systems Manager.md",
-    "NETWORK/Network Load Balancer (NLB).md",
-    "NETWORK/AWS PrivateLink.md",
-    "DATABASES/ORACLE.md",
-    "NETWORK/Auto Scaling.md",
-    "SECURITY/KMS.md",
-    "DATABASES/GERAL.md",
-    "SECURITY/AWS Firewall Manager.md",
-    "GERENCIAMENTO/CloudWatch Logs.md",
-=======
-    "NETWORK/CloudFront.md",
-    "DATABASES/RDS.md",
     "STORAGE/EBS.md",
-    "DATABASES/ORACLE.md",
-    "SECURITY/AWS Firewall Manager.md",
-    "NETWORK/AWS PrivateLink.md",
-    "NETWORK/AWS Global Accelerator.md",
-    "GERENCIAMENTO/CloudWatch Logs.md",
-    "GERENCIAMENTO",
-    "DATABASES/GERAL.md",
-    "STORAGE/S3.md",
-    "NETWORK/Auto Scaling.md",
-    "NETWORK/Application Load Balancer (ALB).md",
->>>>>>> ca97ec696b538d1797352aadd2afec3afe116262
     "AWS - Quizz/QUESTÕES.md",
-    "AWS - Quizz",
-    "NETWORK/VPC.md",
-    "DATA/AWS Glue.md",
-    "STORAGE/Amazon FSx.md",
-    "DATA/Untitled",
-    "NETWORK/Network Load Balancer (NLB).md",
-    "DATABASES/DynamoDB.md",
-    "DATABASES/AURORA MySQL.md",
-    "DATABASES",
-    "STORAGE/DynamoDB.md",
-    "STORAGE/AURORA.md",
-    "STORAGE/Amazon EFS.md",
-    "SECURITY/SECURITY.md",
-    "SECURITY/KMS.md",
-    "SECURITY/GuardDuty.md",
-    "SECURITY/AWS Network Firewall.md",
-    "DEVELOPMENT",
-<<<<<<< HEAD
-    "SAA-C03 - Portugues.pdf",
-    "DATABASES",
-    "IA - ML",
-    "AUTOMATION"
-=======
-    "IA - ML",
-    "AUTOMATION",
-    "SAA-C03 - Portugues.pdf",
-    "COST BILLING",
-    "DATA"
->>>>>>> ca97ec696b538d1797352aadd2afec3afe116262
+    "NETWORK/Auto Scaling.md",
+    "NETWORK/AWS Direct Connect.md",
+    "NETWORK/AWS Global Accelerator.md",
+    "DATABASES/RDS.md"
   ]
 }
