@@ -1,0 +1,1 @@
+O **Amazon Transcribe** é o serviço da AWS para conversão de fala em texto, com suporte a **reconhecimento de múltiplos falantes**. Ele gera transcrições que podem ser armazenadas no Amazon S3.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STORAGE/Amazon FSx.md",
+                "file": "IA - ML/TRANSCRIBE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon FSx"
+              "title": "TRANSCRIBE"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "c5e2d6dde3ef9c66",
   "lastOpenFiles": [
+    "IA - ML/Comprehend Medical.md",
+    "IA - ML/TRANSCRIBE.md",
     "STORAGE/Amazon EFS.md",
     "STORAGE/Amazon FSx.md",
     "DEVELOPMENT/Amazon ECS.md",
