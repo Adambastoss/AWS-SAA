@@ -171,6 +171,9 @@
   },
   "active": "79e33f5345de7635",
   "lastOpenFiles": [
+    "IA - ML/TRANSCRIBE.md",
+    "DEVELOPMENT/LAMBDA.md",
+    "DEVELOPMENT/Amazon ECS.md",
     "STORAGE/Amazon FSx.md",
     "STORAGE/Amazon EFS.md",
     "STORAGE/AWS Transfer Family.md",
