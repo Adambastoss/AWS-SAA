@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STORAGE/Amazon EFS.md",
+                "file": "DATA/KINESIS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon EFS"
+              "title": "KINESIS"
             }
           }
         ]
@@ -171,11 +171,16 @@
   },
   "active": "79e33f5345de7635",
   "lastOpenFiles": [
+    "DATA/QuickSight.md",
+    "GERENCIAMENTO/CloudWatch Logs.md",
+    "STORAGE/S3.md",
+    "SECURITY/SECURITY.md",
+    "DEVELOPMENT/PinPoint.md",
+    "STORAGE/Amazon EFS.md",
     "IA - ML/TRANSCRIBE.md",
     "DEVELOPMENT/LAMBDA.md",
     "DEVELOPMENT/Amazon ECS.md",
     "STORAGE/Amazon FSx.md",
-    "STORAGE/Amazon EFS.md",
     "STORAGE/AWS Transfer Family.md",
     "STORAGE/DynamoDB.md"
   ]
